@@ -12,11 +12,3 @@ Ticket fare Calculator
 // const regTicketCost = 800;
 // cost = isStudent === true ||  ? regTicketCost / 2 ? 
 
-var x =10;
-var y =2.9;
-var divide= x/y;
-
-console.log(typeof divide)
-var value = divide.toFixed(3);
-
-console.log(typeof value);

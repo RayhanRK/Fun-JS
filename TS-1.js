@@ -3,16 +3,16 @@
 // - Burger more than 500tk: free Coke |
 // - Else Coke: 30tk
 
-// Method-1
+Method-1
 
-// let burger = 390;
+let burger = 390;
 
-// if (burger > 500){
-//     console.log(coke = "free coke");
-// }
-// else{
-//     console.log( coke = "30tk");
-// }
+if (burger > 500){
+    console.log(coke = "free coke");
+}
+else{
+    console.log( coke = "30tk");
+}
 
 // method-2
 
@@ -37,3 +37,6 @@ if( burgerPrice > 500 ){
     else{
         console.log(cokePrice = '30 taka');
     }
+
+
+    
