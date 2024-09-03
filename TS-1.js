@@ -27,6 +27,8 @@ else{
 //         console.log(cokePrice);
 //     }
 
+ 
+// method-3
 
 let burgerPrice = 170;
 
