@@ -7,8 +7,8 @@ Ticket fare Calculator
     - Otherwise Regular ticket fare 800 tk
 */
 
-// let age = 12;
-// let isStudent = false;
-// const regTicketCost = 800;
-// cost = isStudent === true ||  ? regTicketCost / 2 ? 
+let age = 12;
+let isStudent = false;
+const regTicketCost = 800;
+cost = isStudent === true ||  ? regTicketCost / 2 ? 
 
